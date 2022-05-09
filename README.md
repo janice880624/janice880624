@@ -10,6 +10,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/janice880624)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=janice880624)  
-
 ![Profile views](https://gpvc.arturio.dev/janice880624)  
