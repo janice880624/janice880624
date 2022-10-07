@@ -4,6 +4,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=janice880624)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+![Janice's GitHub stats](https://github-readme-stats.vercel.app/api?username=janice880624&show_icons=true&theme=highcontrast)
 
 ![Profile views](https://gpvc.arturio.dev/janice880624)  
