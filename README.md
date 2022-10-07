@@ -72,6 +72,6 @@
 
 <br/>  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=janice880624)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=janice880624)  
 
 ![Profile views](https://gpvc.arturio.dev/janice880624)  
