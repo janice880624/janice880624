@@ -58,15 +58,10 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=janice880624&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janice880624&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=janice880624&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=janice880624&theme=dark&hide_border=true" width = 400>
+</p>
 
 <br/>  
 
