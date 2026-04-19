@@ -10,7 +10,7 @@
 - 👀 I am a graduate student.  
   
 
-- 😃 I major in mechanical engineering Department at NTUST.  
+- 😃 I major in Graduate Institute of Artificial Intelligence Cross-disciplinary Technology at NTUST.  
   
 
 <br/>  
