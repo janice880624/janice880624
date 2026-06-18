@@ -1,25 +1,7 @@
-## Hi there 👋, my name is Janice  
-  
 
-<a href="https://janice880624.github.io/intro/" target="_blank"> About me </a>  
-
-<br/>  
+# Hi, I'm Janice! 👋
 
 
-## Rapidfire  
-- 👀 I am a graduate student.  
-  
-
-- 😃 I major in Graduate Institute of Artificial Intelligence Cross-disciplinary Technology at NTUST.  
-  
-
-<br/>  
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://janice880624.github.io/intro/)
 
 
-
-## Github Stats  
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=janice880624&theme=dark&hide_border=true" width = 400>
-</p>
-
-<br/>  
