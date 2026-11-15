@@ -1,11 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="Swim · Bike · Run · Code">
-  <defs>
-    <linearGradient id="f" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#14B8A6"/>
-      <stop offset="50%" stop-color="#0E7490"/>
-      <stop offset="100%" stop-color="#E8935A"/>
-    </linearGradient>
-  </defs>
-  <path d="M0 40 q75 -22 150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0 t150 0" fill="none" stroke="url(#f)" stroke-width="4" stroke-linecap="round"/>
-  <text x="600" y="78" text-anchor="middle" font-family="'Fira Code','Segoe UI',monospace" font-size="18" fill="#64748B">swim · bike · run · code</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80" role="img" aria-label="thanks for visiting">
+  <style>
+    @keyframes glow{0%,100%{opacity:.3}50%{opacity:1}}
+    .d{animation:glow 1.2s ease-in-out infinite}
+  </style>
+  <path d="M100 30 H520 M680 30 H1100" stroke="#818CF8" stroke-opacity=".5" stroke-width="2" stroke-dasharray="4 8"/>
+  <g transform="translate(570 6)">
+    <rect x="10" y="8" width="40" height="32" rx="10" fill="#E2E8F0"/>
+    <rect x="16" y="14" width="28" height="18" rx="6" fill="#1E1B4B"/>
+    <circle cx="25" cy="23" r="3" fill="#22D3EE" class="d"/><circle cx="35" cy="23" r="3" fill="#22D3EE" class="d"/>
+    <line x1="30" y1="0" x2="30" y2="8" stroke="#E2E8F0" stroke-width="3"/><circle cx="30" cy="0" r="3" fill="#F472B6"/>
+  </g>
+  <text x="600" y="72" text-anchor="middle" font-family="'Fira Code','Consolas',monospace" font-size="15" fill="#64748B">thanks for visiting · beep boop</text>
 </svg>

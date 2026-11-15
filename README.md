@@ -2,8 +2,6 @@
 
 <img src="assets/header.svg" alt="Janice — 運動科學 × AI 助理教練" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=800&color=0E7490&center=true&vCenter=true&width=720&height=50&lines=%E6%8A%8A%E8%A8%93%E7%B7%B4%E6%95%B8%E6%93%9A%E8%AE%8A%E6%88%90%E7%9C%8B%E5%BE%97%E6%87%82%E7%9A%84%E6%95%99%E7%B7%B4%E5%BB%BA%E8%AD%B0%3B%E5%BE%9E%E3%80%8C%E6%84%9F%E8%A6%BA%E3%80%8D%E5%88%B0%E3%80%8C%E7%B2%BE%E6%BA%96%E3%80%8D%E7%9A%84%E5%A5%B3%E6%80%A7%E9%90%B5%E4%BA%BA%E8%A8%93%E7%B7%B4%3BAI%20%E5%8A%A9%E7%90%86%E6%95%99%E7%B7%B4%EF%BC%8C%E9%99%AA%E9%81%8B%E5%8B%95%E5%93%A1%E8%B5%B0%E5%BE%97%E6%9B%B4%E9%81%A0)](https://git.io/typing-svg)
-
 **運動科學研究生**　·　國立臺灣科技大學 人工智慧跨域科技研究所
 
 運動科學　·　鐵人三項　·　運動防護　·　AI 教練工具
@@ -34,11 +32,11 @@
 
 ## 🙋‍♀️ 關於我
 
-我是 Janice，在臺科大 **運動科學暨運動防護實驗室** 念碩士，同時擔任女性鐵人三項選手的 **助理教練**，為每位選手撰寫個人化訓練課表。
+我是 Janice，在臺科大 **運動科學暨運動防護實驗室** 念碩士，同時擔任女性鐵人三項選手的 **助理教練**。
 
 | 領域 | 主題 |
 |---|---|
-| **運動科學** | 鐵人三項訓練、訓練負荷監控、個人化課表 |
+| **運動科學** | 鐵人三項訓練、訓練負荷監控 |
 | **運動防護** | 運動傷害評估與處置、防護員檢定準備、急救與水上救生 |
 | **資料分析** | R、Python、資料視覺化 |
 | **工具開發** | 單檔 HTML 工具、Google Sheets／Apps Script 當後端、Firebase 登入、GitHub Pages 部署 |
@@ -125,6 +123,6 @@
 
 <sub>工具內容僅供教育與學習參考，不能取代醫師、物理治療師或運動防護員的專業評估。</sub>
 
-<img src="assets/footer.svg" alt="swim · bike · run · code" width="100%" />
+<img src="assets/footer.svg" alt="thanks for visiting" width="100%" />
 
 </div>
