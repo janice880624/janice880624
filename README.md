@@ -30,6 +30,8 @@
 | **🏥 不要說今天很閒** | 復健科診所物理治療師值班模擬小遊戲，做給 PT 朋友的「物治版」 | [開啟](https://janice880624.github.io/pt-clinic-game/)<br>[repo](https://github.com/janice880624/pt-clinic-game) |
 | **🧮 計算小工具** | 日常用的小型計算器集合 | [開啟](https://janice880624.github.io/voxedit/calculate/calculate.html)<br>[repo](https://github.com/janice880624/voxedit) |
 
+---
+
 ## 🙋‍♀️ 關於我
 
 我是 Janice，在臺科大 **運動科學暨運動防護實驗室** 念碩士，同時擔任女性鐵人三項選手的 **助理教練**，為每位選手撰寫個人化訓練課表。
