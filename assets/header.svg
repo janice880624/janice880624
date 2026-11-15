@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Janice — 運動科學 × AI × 鐵人三項">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B3B5C"/>
+      <stop offset="55%" stop-color="#0E7490"/>
+      <stop offset="100%" stop-color="#14B8A6"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F3C08A"/>
+      <stop offset="100%" stop-color="#E8935A"/>
+    </linearGradient>
+    <style>
+      .t{font-family:'Segoe UI','PingFang TC','Microsoft JhengHei','Noto Sans TC',sans-serif}
+      .wave{fill:none;stroke:#ffffff;stroke-opacity:.18;stroke-width:3}
+      @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-200px)}}
+      .w1{animation:drift 9s linear infinite}
+      .w2{animation:drift 14s linear infinite}
+      @keyframes beat{0%,100%{stroke-dashoffset:600}50%{stroke-dashoffset:0}}
+      .pulse{stroke-dasharray:600;animation:beat 4s ease-in-out infinite}
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+
+  <!-- 游泳：波浪 -->
+  <g class="w1"><path class="wave" d="M0 250 q50 -18 100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0"/></g>
+  <g class="w2"><path class="wave" d="M0 272 q50 -14 100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0 t100 0"/></g>
+
+  <!-- 心率曲線 -->
+  <path class="pulse" d="M720 150 h90 l18 -46 l22 92 l20 -70 l14 24 h60 l16 -30 l18 48 l14 -18 h108" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 三項圖示 -->
+  <g transform="translate(760 210)" fill="#fff" fill-opacity=".9" class="t" font-size="15">
+    <circle cx="10" cy="0" r="5"/><text x="22" y="5">Swim</text>
+    <circle cx="100" cy="0" r="5"/><text x="112" y="5">Bike</text>
+    <circle cx="180" cy="0" r="5"/><text x="192" y="5">Run</text>
+    <circle cx="260" cy="0" r="5" fill="#F3C08A"/><text x="272" y="5">+ AI</text>
+  </g>
+
+  <text x="70" y="118" class="t" font-size="62" font-weight="700" fill="#ffffff">Hi, I'm Janice</text>
+  <rect x="72" y="138" width="120" height="6" rx="3" fill="url(#accent)"/>
+  <text x="70" y="188" class="t" font-size="26" font-weight="600" fill="#E0F2FE">運動科學 × AI 助理教練</text>
+  <text x="70" y="226" class="t" font-size="18" fill="#CCFBF1">NTUST 人工智慧跨域科技所 ・ 運動科學暨運動防護實驗室</text>
+</svg>
